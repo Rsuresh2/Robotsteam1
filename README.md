@@ -9,3 +9,5 @@ On our robot, we succeffuly created the mechanum drive and attached the battery 
 ![Chassis build for](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185953456.MP.jpg?raw=true)
 ![Chassis build clive](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_190005201.MP.jpg?raw=true)
 The next phase of our robot will be to add the claws that grab the bottle, and then eventually implement the opener.
+
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_191700776.MP.jpg?raw=true)

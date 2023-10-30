@@ -1,4 +1,10 @@
 # Robotsteam1
+Jared Kettle: Programmer
+Josh Gibby: Engineer
+Rohan Suresh: Engineer
+Jack Fuller: Documenter
+Jaydon Crouch: Driver
+
 
 ![chassis build](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230913_194543386.MP.jpg?raw=true)
 

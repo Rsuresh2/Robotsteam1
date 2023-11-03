@@ -11,6 +11,8 @@ Jaydon Crouch: Driver
 
 
 
+Robot objective: We are trying to build a robopt that can sucsessfully grab a bottle and open it without spilling or making a mess.
+
 ![chassis build](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230913_194543386.MP.jpg?raw=true)
 
 ![Chassis build too](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230913_195652661.MP.jpg?raw=true)

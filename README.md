@@ -11,12 +11,12 @@ Jaydon Crouch: Driver
 
 
 
-Robot objective: We are trying to build a robopt that can sucsessfully grab a bottle and open it without spilling or making a mess.
+Robot objective: We are trying to build a robot that can successfully grab a bottle and open it without spilling or making a mess.
 
 ![chassis build](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230913_194543386.MP.jpg?raw=true)
 
 ![Chassis build too](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230913_195652661.MP.jpg?raw=true)
-On our robot, we succeffuly created the mechanum drive and attached the battery and brain to the drive. Moving forward, we are going to add some claws to grab the bottle and an opener to open the bottle.
+On our robot, we succeffuly created the mecanum drive and attached the battery and brain to the drive. Moving forward, we are going to add some claws to grab the bottle and an opener to open the bottle.
 
 ![Chassis build tree](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185944974.MP.jpg?raw=true)
 ![Chassis build for](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20230927_185953456.MP.jpg?raw=true)

@@ -33,7 +33,7 @@ We have decided to change the design of our robot. Instead of having two claws i
 
 This is proof of participation in the class games.
 
-![Chassis build socks]()
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204215246.MP.jpg?raw=true)
 ![Chassis build socks]()
 ![Chassis build socks]()
 ![Chassis build socks]()

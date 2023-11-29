@@ -28,7 +28,7 @@ The next phase of our robot will be to add the claws that grab the bottle, and t
 We have decided to change the design of our robot. Instead of having two claws intercept a bottle, we will have one claw with a larger arm to prevent the bottle from rotating. We will see if the torque provided by the VEX motor will be enough to pop the cap of the bottle. 
 
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231129_194516206.MP.jpg?raw=true)
-![Chassis build socks]()
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231129_194518317.MP.jpg?raw=true)
 
 
 This is proof of participation in the class games.

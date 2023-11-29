@@ -35,10 +35,5 @@ This is proof of participation in the class games.
 
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204215246.MP.jpg?raw=true)
 ![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204206621.MP.jpg?raw=true)
-![Chassis build socks]()
-![Chassis build socks]()
-![Chassis build socks]()
+![Chassis build socks](https://github.com/Rsuresh2/Robotsteam1/blob/main/images/PXL_20231127_204209103.MP.jpg?raw=true)
 
-![Chassis build socks]()
-![Chassis build socks]()
-![Chassis build socks]()
